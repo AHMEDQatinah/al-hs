@@ -1,0 +1,168 @@
+.a1{
+    color: brown;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a1{
+    overflow: hidden;
+}
+.a1:hover{
+    color: rgb(194, 206, 22);
+}
+.a2{
+    text-align: center;
+    height: 50%;
+    width: 60%;
+    margin-top: 30px;
+}
+.a3{
+    text-align: center;
+    font-family:  'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blueviolet;
+    color: rgb(255, 255, 255);
+    border-radius: 20px;
+    width: 300px;
+}
+.a3:hover{
+color: brown;
+font-size: 25px;
+}
+.a4{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: justify;
+}
+.a6{
+    background-color: blueviolet;
+    border-radius: 20px;
+    width: 120px;
+    height:40px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 1px;
+    text-decoration: none;
+    color: aliceblue;
+    border-bottom: orange;
+}
+.a6 h2:hover{
+color:white ;
+font-size: 30px;
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+.a7{
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+.a7 h1{
+    overflow: hidden;
+}
+.a7 h1:hover{
+    color: brown;
+}
+.a8 img{
+    width: 100%;
+    height: 450px;
+    overflow: hidden;
+}
+.a8 img{
+    width: 100%;
+    transition-duration: 0.5s;
+}
+
+.a8 img:hover{
+    transform: skew(1deg)
+    scale(1.1)
+    rotate(1deg);
+    opacity: 0.9;
+    height: 500px;
+}
+
+.a10{
+    float: left;
+    color: orange;
+    font-size: 40px;
+    margin-top:-241px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 1550px;
+}
+.a10:hover{
+    color: black;
+}
+.a11{
+    float: left;
+    color: orange;
+    font-size: 40px;
+    margin-top:-14px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 1550px;
+
+}
+.a11:hover{
+    color: black;
+}
+
+.a12{
+    float: left;
+    color: orange;
+    font-size: 40px;
+    margin-top:-12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 1820px; 
+}
+.a12:hover{
+    color: black;
+}
+
+
+.a13{
+    float: left;
+    color: orange;
+    font-size: 40px;
+    margin-top:-18px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 2084px; 
+
+}
+.a13:hover{
+    color: black;
+}
+
+.a14{
+    float: left;
+    color: orange;
+    font-size: 40px;
+    margin-top:-8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    position: absolute;
+    top: 2330px; 
+
+}
+.a14:hover{
+    color: black;
+}
+.al:hover{
+    color: orange;
+    font-size: 25px;
+
+}
+
+
+.hr{
+    background-color: orange;
+    height: 5px;
+    width: 1100px;
+}
+
+.hr:hover{
+background-color: brown;
+
+}
+

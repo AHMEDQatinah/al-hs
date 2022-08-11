@@ -1,0 +1,221 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.ali1 {
+    text-align: right;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px white solid;
+    border-radius: 8px;
+    width: 40px;
+    display: flex;
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+}
+
+.ali2 {
+    text-align: right;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px white solid;
+    border-radius: 8px;
+    width: 50px;
+    display: flex;
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+
+}
+
+
+/* .v1{
+    border: 4px rgb(0, 0, 0) solid;
+    border-radius: 15px;
+    width: 20%;
+    height: 20%;
+    box-shadow: 0px 0px 4px rgb(255, 0, 0);
+}
+h3{
+    text-align: center;
+    text-shadow: 3px 3px 8px red;
+}
+.v2{
+    border: 4px rgb(0, 0, 0) solid;
+    border-radius: 15px;
+    width: 20%;
+    height: 20%;
+    box-shadow: 0px 0px 4px rgb(255, 0, 0);
+    position: absolute;
+    left: 300px;
+
+} */
+
+.div-row1 {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+}
+
+.v1 {
+    background-color: rgb(166, 166, 166);
+    border: rgb(92, 90, 90) solid 5px;
+    border-radius: 10px 10px 20px;
+    width: 40%;
+    height: 20%;
+    text-align: center;
+    margin: 40px;
+    box-shadow: 0px 0px 20px rgb(36, 36, 44);
+    padding-right: 20px;
+    padding-top: 10px;
+}
+
+.v1:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+.v2 {
+    background-color: rgb(166, 166, 166);
+    border: rgb(92, 90, 90) solid 5px;
+    border-radius: 10px 10px 20px;
+    width: 40%;
+    height: 20%;
+    text-align: center;
+    margin: 40px;
+    box-shadow: 0px 0px 20px rgb(40, 40, 44);
+    padding-right: 20px;
+    padding-top: 10px;
+}
+.v2:hover{
+    background-color: rgb(255, 255, 255);
+}
+
+
+body {
+    background-color: #ccc;
+}
+
+.ali1 {
+    text-align: right;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px white solid;
+    border-radius: 8px;
+    width: 40px;
+    display: flex;
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+}
+
+.ali2 {
+    text-align: right;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px white solid;
+    border-radius: 8px;
+    width: 50px;
+    display: flex;
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+
+}
+
+.a1 {
+    background-color: rgb(166, 166, 166);
+    border: rgb(92, 90, 90) solid 5px;
+    border-radius: 10px;
+    width: 40%;
+    height: 20%;
+    overflow: hidden;
+    float: right;
+    text-align: center;
+    margin: 40px;
+    box-shadow: 0px 0px 10px black;
+    padding-right: 20px;
+    padding-top: 10px;
+
+}
+
+.a2 {
+    background-color: rgb(166, 166, 166);
+    border: rgb(92, 90, 90) solid 5px;
+    border-radius: 10px;
+    width: 40%;
+    height: 420px;
+    float: right;
+    overflow: hidden;
+    text-align: center;
+    margin: 40px;
+    box-shadow: 0px 0px 10px black;
+    padding-right: 20px;
+    padding-top: 10px;
+}
+body{
+    background-color: aliceblue;
+}
+.m4{
+    background-color: black;
+    display: flex;
+    margin-top: 50px;
+    border-radius: 10px;
+    width: 100%;
+    position: absolute;
+    color: #fff;
+}
+
+.hr:hover{
+    background-color: brown;
+    
+    }
+
+    .oo a:hover{
+        font-size: 20px;
+        color: #e00700;
+    }
+    
+    .bb li a:hover{
+        background-color: rgb(163, 13, 13);
+        border-radius: 5px;
+        text-align: center;
+        color: #fff;
+        height: 100px;
+        transform: scale(1.8);
+        border-bottom: #c7c7c7 solid 4px;
+        }
+        .jj{
+            
+            text-align: right;
+            margin-top: 20px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: 17px;
+        }
+        .jj h3:hover{
+            color: #e00700;
+            font-size: 25px;
+            transition-duration: 1s;
+            transform: scale(1.2);
+        }
+        .xx{
+            text-align: right;
+            margin-top: 20px;
+        }
+
+        .v1:hover , .v2:hover ,.a1:hover,.a2:hover {
+            background-color: rgb(255, 255, 255);
+        }
+        .v1 img,.v2 img,.a1 img,.a2 img{
+            transition-duration: 1s;
+        }
+        .v1 img:hover,.v2 img:hover{
+            transform: scale(1.2);
+        }
+
+
+
+        

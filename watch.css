@@ -1,0 +1,59 @@
+.m1{
+        background-color: black;
+        display: flex;
+        margin-top: 30px;
+        border-radius: 10px;
+        border: #e00700 solid 3px;
+        width: 100%;
+        position: absolute;
+        color: #fff;
+}
+
+
+body{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ali1{
+    text-align: right;
+    background-color: aqua;
+    color: aliceblue;
+    border: 2px white solid;
+    border-radius: 8px;
+    width: 40px;
+    display: flex;
+    text-decoration: none;
+    float: right;
+    margin-left: 10px;
+    }
+    .ali2{
+        text-align: right;
+        background-color: aqua;
+        color: aliceblue;
+        border: 2px white solid;
+        border-radius: 8px;
+        width: 50px;
+        display: flex;
+        text-decoration: none;
+        float: right;
+        margin-left: 10px;
+    
+        }
+        .hr:hover{
+            background-color: brown;
+            font-size: 20px;
+            }
+            .oo a:hover{
+                font-size: 20px;
+                color: #e00700;
+            }
+            
+            .bb li a:hover{
+                background-color: rgb(163, 13, 13);
+                border-radius: 5px;
+                text-align: center;
+                color: #fff;
+                height: 100px;
+                transform: scale(1.8);
+                border-bottom: #c7c7c7 solid 4px;
+                }
+                
